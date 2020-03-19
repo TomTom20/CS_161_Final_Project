@@ -1,0 +1,4 @@
+How accurate would you like the program to be(# of Epochs)?
+###
+Replace the hashes with a number between 1 and 100
+CURRENT PROGRAM STATUS: 
